@@ -23,7 +23,7 @@ build/
 libs/
 p7zipZpaq/
 #p7zip1602/
-ZPAQ-7.15/
+#ZPAQ-7.15/
 
 
 # Gradle files
